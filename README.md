@@ -120,6 +120,8 @@ nano application.properties
 #### Write Backend Dockerfile =
 ```sh
 nano dockerfile
+```
+```sh
     FROM maven:3.8.3-openjdk-17
     COPY . /opt
     WORKDIR /opt
@@ -149,6 +151,8 @@ nano .env
 #### Write Frontend Dockerfile =
 ```sh
 nano dockerfile
+```
+```sh
     FROM node:25-alpine3.21
     COPY . /opt
     WORKDIR /opt
@@ -211,7 +215,8 @@ cd ..
 ```
 ```sh
 nano docker-compose.yml
-
+```
+```sh
 version: "3.8"
 services: 
   backend:
