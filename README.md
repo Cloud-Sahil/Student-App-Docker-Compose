@@ -50,10 +50,8 @@ Install MariaDB.
 
 . Connect
 
-```shell
-## 1. Switch to root user
-sudo -i
 
-## 2. Update the instance
-apt update
+### 1. Docker install using official documention.
+
+
 
