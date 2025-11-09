@@ -103,4 +103,17 @@ git clone <GitHub_Repository_Link>
 cd <GitHub_Repository_Name>/backend
 
 ```
-
+```sh
+cp src/main/resources/application.properties .
+```
+#### Write application.properties =
+```sh
+nano application.properties
+    server.port=8080
+    spring.datasource.url=jdbc:mariadb://(database endpoint paste):3306/student_db 
+    spring.datasource.username=(database username)
+    spring.datasource.password=(database password)
+    spring.jpa.hibernate.ddl-auto=update
+    spring.jpa.show-sql=true
+# Then ctrl s+x
+```
