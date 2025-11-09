@@ -90,3 +90,12 @@ sudo -i
 ```sh
 apt update
 ```
+
+### 4. Clone the GitHub Repository
+```sh
+git clone <GitHub_Repository_Link>
+```
+# Example: git clone https://github.com/username/student-registration.git
+```sh
+cd <GitHub_Repository_Name>/backend
+```sh
