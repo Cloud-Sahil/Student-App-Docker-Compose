@@ -243,3 +243,16 @@ services:
 ```sh
 apt install docker-compose -y
 ```
+
+### 10. Docker-compose Build =
+
+```sh
+docker-compose build --no-cache
+```
+
+### 11. Docker-compose up =
+
+```sh
+docker-compose up -d
+```
+
