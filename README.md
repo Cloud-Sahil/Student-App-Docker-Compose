@@ -95,7 +95,7 @@ apt update
 ```sh
 git clone <GitHub_Repository_Link>
 ```
-#### Example: git clone https://github.com/username/student-registration.git
+##### Example: git clone https://github.com/username/student-registration.git
 
 ### 5. Backend
 
@@ -144,7 +144,7 @@ ls
 nano .env
 ```
 
-#### Example: (Paste EC2 public IP)
+##### Example: (Paste EC2 public IP)
 
 #### Write Frontend Dockerfile =
 ```sh
