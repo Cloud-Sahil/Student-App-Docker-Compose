@@ -84,3 +84,9 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 ```sh
 sudo -i
 ```
+
+### 3. Update the instance
+
+```sh
+apt update
+```
