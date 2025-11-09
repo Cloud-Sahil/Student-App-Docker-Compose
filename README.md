@@ -160,3 +160,8 @@ nano dockerfile
     EXPOSE 80
     CMD ["httpd","-D","FOREGROUND"]
 ```
+
+### 7. Mysql-client install
+```sh
+apt install mysql-client -y
+```
