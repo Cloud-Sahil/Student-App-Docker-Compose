@@ -256,3 +256,11 @@ docker-compose build --no-cache
 docker-compose up -d
 ```
 
+## 3. Access website:
+
+Open your browser and go to
+
+```
+http://<EC2-Public-IP>
+```
+
