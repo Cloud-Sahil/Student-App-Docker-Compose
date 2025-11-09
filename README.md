@@ -133,3 +133,13 @@ nano dockerfile
 
 ### 6. Frontend
 
+```sh
+cd ../frontend/
+ls
+```
+#### Write .env file =
+```sh
+nano .env
+```
+
+#### Example: (Paste EC2 public IP)
