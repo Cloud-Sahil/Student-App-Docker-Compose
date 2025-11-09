@@ -53,6 +53,7 @@ Install MariaDB.
 
 ### 1. Docker install using official documention.
 
+Set up Docker's apt repository.
 ```shell
 
 # Add Docker's official GPG key:
