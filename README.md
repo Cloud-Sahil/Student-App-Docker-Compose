@@ -109,6 +109,8 @@ cp src/main/resources/application.properties .
 #### Write application.properties =
 ```sh
 nano application.properties
+```
+```sh
     server.port=8080
     spring.datasource.url=jdbc:mariadb://(database endpoint paste):3306/student_db 
     spring.datasource.username=(database username)
