@@ -1,6 +1,5 @@
 #  Student Registration Website.
-
-
+---
 
 ##  Frontend -
 Node.js and npm must be installed.
