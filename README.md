@@ -94,14 +94,14 @@ apt update
 ```sh
 git clone <GitHub_Repository_Link>
 ```
-##### Example: git clone https://github.com/username/student-registration.git
+##### Example: git clone https://github.com/Rohit-1920/EasyCRUD.git
 
 ### 5. Backend
 
 ```sh
 cd <GitHub_Repository_Name>/backend
-
 ```
+##### Example: cd EasyCRUD/backend/
 ```sh
 cp src/main/resources/application.properties .
 ```
